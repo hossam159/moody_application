@@ -15,7 +15,7 @@ class ApplicationTheme {
     ),
     bottomNavigationBarTheme: const BottomNavigationBarThemeData(
       type: BottomNavigationBarType.fixed,
-      backgroundColor: Colors.white,
+      backgroundColor: Colors.black,
       selectedIconTheme: IconThemeData(color: Color(0xFF027A48), size: 37),
       unselectedIconTheme: IconThemeData(color: Color(0xFF667085), size: 27),
     ),
